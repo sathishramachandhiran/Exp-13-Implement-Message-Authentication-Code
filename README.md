@@ -19,7 +19,7 @@ Step 5:
 The authenticity of the message is confirmed if the MACs match.
 
 # PROGRAM:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
@@ -77,8 +77,7 @@ int main() {
 }
 ```
 # OUTPUT:
-![Screenshot 2024-10-18 205516](https://github.com/user-attachments/assets/6abd531f-3b0f-4639-9d03-9ca203a158d0)
-
+![out](mac.png)
 
 
 # RESULT:
